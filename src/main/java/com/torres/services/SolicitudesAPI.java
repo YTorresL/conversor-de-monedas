@@ -1,8 +1,5 @@
 package com.torres.services;
 
-import com.google.gson.Gson;
-import com.torres.models.ConversionRates;
-
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
